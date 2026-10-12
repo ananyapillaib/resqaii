@@ -1,0 +1,8 @@
+{
+  "study_area": "Wayanad, Kerala, India",
+  "input_dem": "C:\\Users\\HP\\Documents\\resqai\\ResQAI-Starter\\data\\raw\\dem\\wayanad_dem_90m.tif",
+  "projected_crs": "EPSG:32643",
+  "slope_units": "degrees",
+  "method": "Slope calculated from elevation gradients",
+  "slope_output": "C:\\Users\\HP\\Documents\\resqai\\ResQAI-Starter\\data\\processed\\terrain\\wayanad_slope_degrees.tif"
+}

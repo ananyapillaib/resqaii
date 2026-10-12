@@ -1,0 +1,22 @@
+{
+  "project_name": "ResQAI",
+  "study_area": "Wayanad District, Kerala, India",
+  "weather_test_point": {
+    "name": "Wayanad representative API test point (not district average)",
+    "latitude": 11.6854,
+    "longitude": 76.132
+  },
+  "historical_weather": {
+    "start_date": "2018-01-01",
+    "end_date": "2025-12-31",
+    "time_standard": "UTC",
+    "parameters": [
+      "PRECTOTCORR",
+      "T2M",
+      "T2M_MAX",
+      "T2M_MIN",
+      "RH2M",
+      "WS10M"
+    ]
+  }
+}

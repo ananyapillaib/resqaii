@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db
+# Keep raw data locally, but do not accidentally commit large datasets.
+data/raw/**
+!data/raw/**/.gitkeep
+models/*.joblib
+outputs/**
+!outputs/**/.gitkeep
+# Generated geospatial raster files
+data/**/*.tif
+data/**/*.tiff
+data/**/*.vrt
+data/**/*.img
